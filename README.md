@@ -6,7 +6,7 @@
 
 ## Install
 
-- 手动添加 Jiguang.JPush.dll 依赖（在运行时可能会提示缺少其他的依赖，可根据提示安装）。
+- 手动添加 ./Release/xxx/Jiguang.JPush.dll 依赖（在运行时可能会提示缺少其他的依赖，可根据提示安装）。
 
 ## Documents
 
