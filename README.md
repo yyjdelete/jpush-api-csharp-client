@@ -1,6 +1,6 @@
 # JPush Library for .NET
 
-[![NuGet](https://img.shields.io/badge/NuGet-v1.0.11-blue.svg)](https://preview.nuget.org/packages/Jiguang.JPush/)
+[![NuGet](https://img.shields.io/badge/NuGet-v1.1.0-blue.svg)](https://preview.nuget.org/packages/Jiguang.JPush/)
 
 由[极光](https://www.jiguang.cn/)官方支持的 JPush .NET API Client，支持华为通道。
 
@@ -25,7 +25,6 @@
 ## FAQ
 
 1.如果调用异步方法时出现死锁，即一直没有返回 [HttpResponse](https://github.com/jpush/jsms-api-csharp-client/blob/v2-dev/Jiguang.JSMS/Model/HttpResponse.cs)，可参考这篇[文章](https://blogs.msdn.microsoft.com/jpsanders/2017/08/28/asp-net-do-not-use-task-result-in-main-context/)。
-
 
 ## Contribute
 
